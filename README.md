@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salvadordata.
 - 👀 I’m interested in guitars, music, computer coding, cybersecurity, and coffee.
-- 🌱 I’m currently learning c++, IBM Generative AI in Cybersecurity, and relearning HTML coding.
+- 🌱 I’m currently learning/teaching myself c++, IBM Generative AI in Cybersecurity, and relearning HTML coding. I'm also currently enrolled in Nucamp's Cybersecurity Foundations 4 month curriculum.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: ak987tbram@icloud.com
 - 😄 Pronouns: He, Him, His.

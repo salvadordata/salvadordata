@@ -16,7 +16,7 @@ Open to teaming up on exciting projects—whether it’s building tools for ethi
 When I’m not writing code or designing devices, you’ll probably find me:
 	•	Playing guitar or listening to music
 	•	Sipping coffee while brainstorming new ideas
-	•	Exploring the vibrant culture of North Jersey, my hometown
+	•	Exploring the vibrant culture of Philadelpia, my current city
 
 🤝 Let’s Connect!
 

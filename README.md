@@ -1,4 +1,4 @@
-👋 Hello there! I’m Salvador Dada (@salvadordata)
+👋 Hello there! I’m SalvadorData (@salvadordata)
 
 I’m a passionate tech enthusiast with a growing interest in cybersecurity, embedded systems, and creative coding projects. Currently, I’m enrolled in Nucamp’s Cybersecurity Specialization Bootcamp, diving deep into the foundations of digital security and ethical hacking.
 

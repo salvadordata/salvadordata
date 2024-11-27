@@ -1,5 +1,3 @@
-Here’s a more engaging and professional GitHub About section for you:
-
 👋 Hello there! I’m Salvador Dada (@salvadordata)
 
 I’m a passionate tech enthusiast with a growing interest in cybersecurity, embedded systems, and creative coding projects. Currently, I’m enrolled in Nucamp’s Cybersecurity Specialization Bootcamp, diving deep into the foundations of digital security and ethical hacking.
@@ -29,4 +27,3 @@ When I’m not writing code or designing devices, you’ll probably find me:
 
 I’m deeply intrigued by the synergy of art and technology. Whether it’s building a device or writing a piece of code, I approach every project like a work of art.
 
-Feel free to copy and tweak this for your profile! Let me know if you’d like further adjustments.

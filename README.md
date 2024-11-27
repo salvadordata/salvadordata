@@ -7,7 +7,7 @@ I’m a passionate tech enthusiast with a growing interest in cybersecurity, emb
 	•	Coding Skills:
 I have a foundation in HTML, CSS, and Python. Right now, I’m sharpening my skills in C++ while also exploring the fascinating intersection of AI and cybersecurity with tools like IBM’s Generative AI.
 	•	Hardware Tinkerer:
-I love building custom firmware for ESP32 microcontrollers and designing 3D-printed enclosures for my projects. My creations often focus on penetration testing devices, blending practicality with creative engineering.
+I love building custom firmware for ESP32 microcontrollers and designing 3D-printed enclosures for my projects. My creations often focus on penetration testing devices, blending practicality with creative engineering. I also enjoy crafting 3-D printeed cases for these IoT devices.
 	•	Collaborator at Heart:
 Open to teaming up on exciting projects—whether it’s building tools for ethical hacking, exploring IoT innovations, or tackling creative programming challenges.
 
